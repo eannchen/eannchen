@@ -4,7 +4,7 @@
 
 Here are a few things about me:
 - 💼 I’m an experienced **Software Developer**, primarily using **Go** and **Docker**.
-  - Check my [LinkedIn profile](https://linkedin.com/in/eannchen/) for details on work experience and tech stack.
+  - Check my [LinkedIn profile](https://linkedin.com/in/eannchen/) for details on work and tool experience.
 - 🌱 I’m sharpening my **system design** and **fundamentals** skills.
   - My [public Notion notes](https://eannc.cc) document my learning journey.
 - 🛠️ I’m the creator of **[LeetSolv](https://github.com/eannchen/leetsolv)** — an open-source CLI tool for **DSA problem revision**, powered by **a custom SM-2 algorithm** to help you master algorithms through **deliberate practice**.
