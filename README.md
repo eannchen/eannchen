@@ -9,8 +9,6 @@ Here are a few things about me:
   - Check my [LinkedIn profile](https://linkedin.com/in/eannchen/) for more on my work experience.
 - 🌱 I’m sharpening my **problem-solving** and **system design** skills.
   - My [public Notion notes](https://eannc.cc) document my learning journey.
+  - You can also see progress and solutions on my [LeetCode profile](https://leetcode.com/eannchen/).
 - 🛠️ I’m the creator of **[LeetSolv](https://github.com/eannchen/leetsolv)** — an open-source CLI tool for **DSA problem revision**, powered by **a custom SM-2 algorithm** to help you master algorithms through **deliberate practice**.
   - Read the [project story](https://github.com/eannchen/leetsolv/blob/main/document/MOTIVATION.md) to learn why I built it.
-  - You can also see my progress and solutions on my [LeetCode profile](https://leetcode.com/eannchen/).
- 
-![LeetSolv](https://github.com/eannchen/leetsolv/raw/main/document/image/DEMO_header.gif)
