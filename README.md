@@ -2,7 +2,7 @@
 
 **Thanks for stopping by my GitHub profile—it’s great to connect!**
 
-My early career was focused on learning the latest tools to build products. With more experience, I've come to realize the lasting value of strong fundamentals and have since shifted my focus to mastering them.
+Early in my career, I focused on learning the latest frameworks to deliver fast. With more experience, I’ve shifted toward strengthening fundamentals—so I can use tools more effectively and design systems that last.
 
 Here are a few things about me:
 - 💼 I design and build scalable, distributed systems using **Go**.
