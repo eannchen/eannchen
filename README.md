@@ -5,7 +5,7 @@
 My early career was focused on learning the latest tools to build products. With more experience, I've come to realize the lasting value of strong fundamentals and have since shifted my focus to mastering them.
 
 Here are a few things about me:
-- 💼 My primary tools are **Go** and **Docker**.
+- 💼 I design and build scalable, distributed systems using **Go**.
   - Check my [LinkedIn profile](https://linkedin.com/in/eannchen/) for more on my work experience.
 - 🌱 I’m sharpening my **problem-solving** and **system design** skills.
   - My [public Notion notes](https://eannc.cc) document my learning journey.
